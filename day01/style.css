@@ -33,5 +33,5 @@ body {
 }
 
 .intro-content{
-  padding-right: 50%; /* <---- and this */
+  width: 50%; /* <---- and this */
 }
