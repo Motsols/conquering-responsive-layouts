@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: "Roboto";
+    font-size: 21px;
+}
+
+h1{
+    font-size: 48px;
+}
+
+.hero{
+    color: white;
+    /* background: #23424a; */
+    background: linear-gradient(to bottom right, #23424a, #136C72);
+    padding: 5rem 0;
+}
+
+.content{
+    max-width: 750px;
+    margin: auto;
+    padding: 1em;
+}
+
+.heroContent{
+    width: 70%;
+    /* font-size: 1.5rem; */
+}
+
+.button{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-color: #38CFD9;
+    padding: 0.8em 1.8em;
+    border-radius: 20em;
+}
